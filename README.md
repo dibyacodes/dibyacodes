@@ -11,4 +11,5 @@ Fact :
 Know more about me : 
 
 [My Twitter](https://x.com/dibyacodes)
-[Hire Me](mailto: dibyacodes@gmail.com)
+
+[Hire Me](dibyacodes@gmail.com)

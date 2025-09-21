@@ -8,6 +8,7 @@ Currently working as a freelancer, but actively looking to join a remote team!
 Fact :
 
 - All I know is building, that's my passion
+- I appreciate AI but I prefer writing most of my code myself. AI is my junior
 - I am very active on twitter
 - I use arch btw. Big fan of linux & Linus Torvalds
 

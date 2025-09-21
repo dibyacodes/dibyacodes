@@ -2,6 +2,10 @@
 
 The name is **Dibyacodes (aka Dibyajyoti)** and I am well seasoned full stack developer speciallizing in Web & Desktop applications since the past **5 yaers**
 
+At present **exploring, improving & adding more advanced programming skillsets to my inventory.**
+
+Goal : **Become a Jack of all Trades, and master of ONE**
+
 Currently working as a freelancer, but actively looking to join a remote team!
 [Hire Me](dibyacodes@gmail.com)
 

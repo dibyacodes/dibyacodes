@@ -7,7 +7,7 @@ At present **exploring, improving & adding more advanced programming skillsets t
 Goal : **Become a Jack of all Trades, and master of ONE**
 
 Currently working as a freelancer, but actively looking to join a remote team!
-[Hire Me](dibyacodes@gmail.com)
+[Hire Me](mailto:dibyacodes@gmail.com)
 
 Fact :
 

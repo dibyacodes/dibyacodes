@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-The name is **Dibyacodes (aka Dibyajyoti)** and I am well seasoned full stack developer speciallizing in Web & Desktop applications since the past **5 yaers**
+The name is **Dibyacodes (aka Dibyajyoti)** and I am a full stack developer speciallizing in Web & Desktop applications since the past **5 yaers**
+
+I build **WebApps, Websites, Automations, Desktop Apps, Backend Systems & Solve problems with code!**
 
 At present **exploring, improving & adding more advanced programming skillsets to my inventory.**
 

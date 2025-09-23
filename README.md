@@ -1,28 +1,30 @@
 # Dibyajyoti (Dibyacodes)
-**Full Stack Developer** | Web & Desktop Applications
+**Full Stack Developer** | Crafting Scalable Web & Desktop Solutions
 
-## About
-Professional full-stack developer with 5+ years of experience building web applications, desktop software, backend systems, and automation solutions. Currently focused on expanding advanced programming skills while delivering high-quality solutions.
+## 🚀 Professional Profile
+Seasoned developer with **5+ years** of experience architecting and delivering robust applications. I specialize in transforming complex requirements into efficient, maintainable codebases across web and desktop platforms.
 
-## Focus
-- **Web & Desktop Application Development**
-- **Backend Systems & API Design**
-- **Process Automation & Problem Solving**
-- **Skill Advancement & Technical Excellence**
+## 💡 Core Competencies
+- **Full-Stack Development** - End-to-end solution delivery
+- **System Architecture** - Scalable backend systems & APIs
+- **Desktop Applications** - Native cross-platform solutions
+- **Process Automation** - Streamlining business workflows
+- **Technical Problem-Solving** - Analytical approach to challenges
 
-## Philosophy
-- Prefer writing code directly with AI assistance as needed
-- Advocate for Linux and efficient development practices
-- Believe in continuous learning and practical problem-solving
+## 🎯 Current Focus
+Elevating my expertise in **advanced software architecture patterns** while maintaining hands-on development skills. Committed to writing clean, intentional code with strategic AI augmentation.
 
-## Availability
-Currently accepting new projects and actively seeking remote team opportunities.
+## 📈 Career Status
+**Available for remote opportunities** - Seeking a collaborative team environment where I can contribute to meaningful projects and grow technically.
 
-## Connect
-- Twitter: [@YourHandle](https://twitter.com/yourhandle)
-- LinkedIn: [Dibyajyoti](https://linkedin.com/in/yourprofile)
-- Email: your.email@domain.com
+## 🌟 What Sets Me Apart
+- **Linux-native development mindset** - Efficiency-focused workflow
+- **Balance of creativity and precision** - Artistic problem-solving meets technical rigor
+- **Continuous skill refinement** - Always learning, always improving
+
+## 📞 Let's Connect
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle) • [Email](mailto:your.email@domain.com)
 
 ---
 
-*Building solutions that work.*
+*Building not just code, but solutions that matter.*

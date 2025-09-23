@@ -15,7 +15,7 @@
 - Scalable Architecture Patterns
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your.email@domain.com)
+[X (Formerly twitter)](https://x.com/dibyacodes) • [Email](mailto:dibyacodes@gmail.com)
 
 ---
 

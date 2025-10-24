@@ -1,5 +1,5 @@
-# Dibyajyoti (Dibyacodes)
-**Full Stack Developer** | Web & Desktop Applications
+### dibyacodes (Dibyajyoti)
+Just a software developer looking to optimize applications and my workflow to the best.
 
 5+ years building production applications. Currently seeking remote opportunities.
 

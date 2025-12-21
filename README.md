@@ -1,4 +1,4 @@
-![[Pasted image 20251221164913.png]]
+<img href="image.png"/>
 ### dibyacodes (Dibyajyoti Kumar)
 
 The focused software guys you're looking for.

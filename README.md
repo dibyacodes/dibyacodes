@@ -1,22 +1,11 @@
-### dibyacodes (Dibyajyoti)
-Just a software developer looking to optimize applications and my workflow to the best.
+![[Pasted image 20251221164913.png]]
+### dibyacodes (Dibyajyoti Kumar)
 
-5+ years building production applications. Currently seeking remote opportunities.
+The focused software guys you're looking for.
 
-## Expertise
-- Full-Stack Web Development
-- Desktop Application Architecture  
-- Backend Systems & APIs
-- Linux-native Development
+**Building and shipping websites & softwares since the past 5.1 Years. Helped 100+ clients scaled their business.**
 
-## Currently Exploring
-- Advanced System Design
-- Performance Optimization
-- Scalable Architecture Patterns
+**Actively looking for opportunities to join a full time remote team and contribute to building scaleable products and value.**
 
-## Contact
-[X (Formerly twitter)](https://x.com/dibyacodes) • [Email](mailto:dibyacodes@gmail.com)
-
----
-
-*Build. Ship. Iterate.*
+**Reach me out at [Gmail](dibyacodes@gmail.com)**
+Or **[View my Resume](https://drive.google.com/file/d/1myaJ03aFDkF74N1OUeSebUspcL4RMsdJ/view?usp=sharing)**

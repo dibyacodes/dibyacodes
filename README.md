@@ -1,5 +1,5 @@
-<img href="image.png"/>
-### dibyacodes (Dibyajyoti Kumar)
+![](image.png)
+## dibyacodes (Dibyajyoti Kumar)
 
 The focused software guys you're looking for.
 

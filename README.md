@@ -3,7 +3,7 @@
 
 The software dev you're looking for.
 
-**Building and shipping websites & softwares since the past 5.6 Years. Helped 30+ clients scaled their business.**
+**Building and shipping websites & softwares since the past 5+ Years. Helped 30+ clients scaled their business.** Currently building Primecraft
 
 **Actively looking for opportunities to join a full time remote team and contribute to building scaleable products**
 
